@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chrisenl31
-- 👀 I’m interested in Webdevelopment
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Webdevelopment project
+- 💞️ I’m looking to collaborate on Data analysis project
 - 📫 You can reach me by phone 0878-6989-8117
 
 <!---
